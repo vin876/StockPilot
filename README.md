@@ -46,46 +46,35 @@ O modelo poderá selecionar as ferramentas necessárias conforme a solicitação
 
 O agente terá caráter consultivo: não realizará alterações diretamente no banco de dados. Operações sensíveis dependerão das regras do backend e de aprovação humana.
 
-Tecnologias
 
-Tecnologia
+# Tecnologias:
 
-Aplicação
-
+Aplicação:
 Java 21
 
 Desenvolvimento do backend
-
 Spring Boot
-
 APIs REST e regras de negócio
 
 Python
-
 Serviço de IA e orquestração do agente
 
 Google Gemini
-
 LLM para interpretação e geração de respostas
 
 PostgreSQL
-
 Banco de dados relacional
 
 Spring Data JPA
-
 Persistência e acesso aos dados
 
 Maven
-
 Gerenciamento de dependências e build
 
 Git e GitHub
-
 Versionamento e documentação
 
 Docker
-
 Preparação do ambiente de execução
 
 Arquitetura
